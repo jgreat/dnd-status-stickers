@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.75in"
+   height="0.75in"
+   viewBox="0 0 67.500001 67.500002"
+   id="svg4237"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Death_status.svg">
+  <defs
+     id="defs4239">
+    <linearGradient
+       id="linearGradient4981"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4983" />
+    </linearGradient>
+    <path
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.92312342;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 61.764709,1018.6121 A 28.014708,28.014708 0 0 1 33.75,1046.6269 28.014708,28.014708 0 0 1 5.7352914,1018.6121 28.014708,28.014708 0 0 1 33.75,990.59743 28.014708,28.014708 0 0 1 61.764709,1018.6121 Z"
+       id="path4787-2"
+       inkscape:connector-curvature="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="43.034049"
+     inkscape:cy="62.253493"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4242">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Outer Ring"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-984.86215)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+       id="path4785"
+       cx="33.75"
+       cy="1018.6121"
+       rx="33.199944"
+       ry="33.19994" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.92312342;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 61.764709,1018.6121 A 28.014708,28.014708 0 0 1 33.75,1046.6269 28.014708,28.014708 0 0 1 5.7352914,1018.6121 28.014708,28.014708 0 0 1 33.75,990.59743 28.014708,28.014708 0 0 1 61.764709,1018.6121 Z"
+       id="path4787"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4789"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Impact;font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Impact Condensed';font-stretch:condensed;font-variant:normal;"><flowRegion
+         id="flowRegion4791"><rect
+           id="rect4793"
+           width="51.25"
+           height="15.714286"
+           x="-59.464287"
+           y="65"
+           style="-inkscape-font-specification:'Impact Condensed';font-family:Impact;font-weight:normal;font-style:normal;font-stretch:condensed;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara4795"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Words">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:5.05744791px;line-height:300%;font-family:Impact;-inkscape-font-specification:'Impact Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4797"
+       sodipodi:linespacing="300%"
+       x="-1.7232132"
+       y="-990.73798"
+       transform="translate(9.8319318e-4,-984.85619)"><textPath
+         xlink:href="#path4787-2"
+         id="textPath4802">DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - DEAD - </textPath></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Inner Ring">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4828"
+       cx="21.970818"
+       cy="18.949543"
+       rx="6.1871843"
+       ry="4.6088209" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4830"
+       cx="46.719555"
+       cy="32.586601"
+       rx="23.864855"
+       ry="15.341692" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4832"
+       cx="98.047928"
+       cy="60.997143"
+       rx="1.3258252"
+       ry="13.952732" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4836"
+       cx="33.75"
+       cy="33.75"
+       r="26.832178" />
+    <g
+       id="g6858"
+       transform="matrix(0.07665745,0,0,0.07665745,14.125693,14.125693)">
+      <circle
+         id="circle6848"
+         fill="transparent"
+         r="256"
+         cy="256"
+         cx="256"
+         style="stroke:#000000;stroke-width:0" />
+      <path
+         id="path6850"
+         d="m 253.75,18.906 c -77.635,0.03 -154.875,54.01 -154.875,167.5 l 0,209.72 c 25.67,19.717 46.68,41.386 52.156,69.124 -3.507,-44.464 -4.166,-88.692 14.595,-133.156 5.265,38.52 8.087,77.137 26.875,115.656 25.316,-53.302 59.948,-75.555 102.188,-72.438 -29.706,25.94 -56.26,55.26 -74.75,95.22 31.477,-30.2 66.886,-38.728 103.968,-40.907 -21.57,15.247 -41.576,30.414 -54.156,50.22 l 78.344,0 c 6.443,-27.99 -4.756,-54.648 -17.78,-82.908 27.59,18.168 51.09,40.4 61.905,77.657 3.525,-39 -3.843,-73.686 -15.19,-106.875 13.34,6.44 23.875,15.568 31.595,27.374 l 0,-208.687 c 0,-113.616 -77.24,-167.528 -154.875,-167.5 z m -103.594,125.688 114.938,0 0,18.687 -114.938,0 0,-18.686 z m 152.438,0 56.125,0 0,18.687 -56.126,0 0,-18.686 z m -152.438,42.75 36.5,0 0,18.687 -36.5,0 0,-18.686 z m 72.25,0 136.314,0 0,18.687 -136.315,0 0,-18.686 z m -72.28,40.312 95.81,0 0,18.688 -95.81,0 0,-18.688 z m 126.31,0 82.283,0 0,18.688 -82.283,0 0,-18.688 z m -177.56,189.53 0,62.658 23.686,0 c -4.638,-21.58 -13.086,-42.375 -23.687,-62.656 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
